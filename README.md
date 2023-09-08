@@ -11,6 +11,6 @@
     <H1>Marilyn's GEO 370 Page </H1>
    <h2>Homework 2</h2>
    <H3>Map</H3>
-   <img  width="500" src="./pngs/homework2new.png" alt="">  
+   <img src="./pngs/homework2new.png" alt="">  
 </body>
 </html>
